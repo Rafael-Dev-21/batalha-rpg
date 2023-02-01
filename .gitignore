@@ -1,0 +1,10 @@
+*.out
+*.mod
+*.exe
+*.app
+*.o
+*.so
+*.a
+*.dylib
+*.lib
+*.dll
