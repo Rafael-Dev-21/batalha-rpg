@@ -60,7 +60,7 @@ contains
     print "(1x,a)", "----------------"
     print "(1x,a)", self%nome
     print "(1x,a)", "----------------"
-    print '(" vida: ",i3)', self%vida
+    print '(2x,"vida:",1x,i3)', self%vida
     print "(1x,a)", "----------------"
   end subroutine
 

@@ -57,14 +57,14 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
   (format t "# BATALHA  RPG #~%")
   (format t "#==============#~%"))
 
-(defun luta ()
+(defun batalha ()
   (let ((jogador (make-ator :nome "Você" :vida 100 :ataque 10 :auto nil))
         (inimigo (make-ator :nome "Goblin" :vida 60 :ataque 6 :auto t)))
-    (labels ((luta-turno (a b) (progn
+    (labels ((batalha-turno (a b) (progn
                                  (princ (ator-turno a b))
                                  (if (< (ator-vida b) 0)
                                      (format nil "~a é o vencedor.~%" (ator-nome a))
-                                     (luta-turno b a)))))
+                                     (batalha-turno b a)))))
       (intro)
-      (princ (luta-turno jogador inimigo)))))
+      (princ (batalha-turno jogador inimigo)))))
 
