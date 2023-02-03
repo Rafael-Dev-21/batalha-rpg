@@ -3,6 +3,10 @@
 
 Um jogo de batalha rpg implementado em várias linguagens diferentes, um bom desafio para práticar.
 
+* Idade do projeto: **2 dias**.
+* Tempo que o projeto ficou sem javascript: **2 dias**.
+* Tempo que o projeto ficou sem assembly: **2 dias**.
+
 ## Algoritmo
 
 1. imprime uma mensagem de introdução (opcional)
