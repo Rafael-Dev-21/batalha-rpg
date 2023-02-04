@@ -7,6 +7,8 @@ Um jogo de batalha rpg implementado em várias linguagens diferentes, um bom des
 * Tempo que o projeto ficou sem javascript: **2 dias**.
 * Tempo que o projeto ficou sem assembly: **2 dias**.
 
+[Linguagens usadas/planejadas](linguagens.md)
+
 ## Algoritmo
 
 1. imprime uma mensagem de introdução (opcional)
