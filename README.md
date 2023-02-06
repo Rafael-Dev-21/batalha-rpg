@@ -3,9 +3,9 @@
 
 Um jogo de batalha rpg implementado em várias linguagens diferentes, um bom desafio para práticar.
 
-* Idade do projeto: **4 dias**.
-* Tempo que o projeto ficou sem javascript: **4 dias**.
-* Tempo que o projeto ficou sem assembly: **4 dias**.
+* Idade do projeto: **5 dias**.
+* Tempo que o projeto ficou sem javascript: **5 dias**.
+* Tempo que o projeto ficou sem assembly: **5 dias**.
 
 [Linguagens usadas/planejadas](linguagens.md)
 
