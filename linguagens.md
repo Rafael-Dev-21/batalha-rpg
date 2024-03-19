@@ -1,4 +1,4 @@
-# Linguagens
+# Liguagens
 
 1. Fortran
     - O código é meio confuso, eu não sou bom em Fortran
@@ -10,7 +10,9 @@
 4. Python
 5. Lua
 6. Ruby
-7. ?
+7. Pascal
+8. ?
+
 
 ## Possiveis
 
